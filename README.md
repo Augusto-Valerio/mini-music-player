@@ -33,4 +33,4 @@ You can view the project layout through [FROM THIS LINK](https://www.figma.com/d
 
 ---
 
-made by : [Augusto Valerio](https://github.com/Augusto-Valerio).
+Made by : [Augusto Valerio](https://github.com/Augusto-Valerio).
